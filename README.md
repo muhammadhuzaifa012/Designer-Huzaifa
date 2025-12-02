@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20[Your%20Name]&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Graphic%20Designer%20|%20Illustrator%20|%20UI%20Creator&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20[M.%20Huzaifa]&fontSize=70&animation=fadeIn&fontAlignY=30&desc=Graphic%20Designer%20|%20Illustrator%20|%20UI%20Creator&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
-### 🎨 About Me
+###  About Me
 Hi there! I am a passionate Graphic Designer focused on creating meaningful visual experiences. I bridge the gap between artistic direction and technical implementation.
 
-* 👀 **I’m currently working on:** [Name of Project or "A UI Kit"]
-* 🌱 **I’m currently learning:** 3D Modeling (Blender) & Webflow
-* 💬 **Ask me about:** Brand Identity, Typography, and UI Design
-* 📫 **Reach me at:** [your-email@example.com]
+*  **I’m currently working on:** [Name of Project or "A UI Kit"]
+*  **I’m currently learning:** 3D Modeling (Blender) & Webflow
+*  **Ask me about:** Brand Identity, Typography, and UI Design
+*  **Reach me at:** [your-email@example.com]
 
 ---
 
 ### 🖌️ Creative Toolkit
 <p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
+  <img src="file:///C:/Users/mh945/Desktop/tech%20products/2.png" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
